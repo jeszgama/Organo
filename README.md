@@ -1,6 +1,6 @@
 # Aplicação:
 
-<a href="https://jessica-twitter.netlify.app/](https://organo-beige-seven.vercel.app/" target="_blank" >Clique aqui para abrir a aplicação do Organo</a>
+<a href="https://organo-beige-seven.vercel.app" target="_blank" >Clique aqui para abrir a aplicação do Organo</a>
 
 # Getting Started with Create React App
 
